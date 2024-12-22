@@ -1,3 +1,3 @@
 ### World Attackmap
 
-![img](pewpew.png)
+![img](world-attackmap.png)
